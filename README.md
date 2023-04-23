@@ -1,6 +1,6 @@
 # Component-tester
-Тест IGBT [Додаткова інфа тут](http://valvolodin.narod.ru/articles/tester_IGBT.pdf " ") 
-Тест MOSFET  
+Тест IGBT [Додаткова інфа тут](http://valvolodin.narod.ru/articles/tester_IGBT.pdf " Тут дещо розширена версія ")  
+Тест MOSFET  [Додаткова інфа тут](http://valvolodin.narod.ru/articles/tester_IGBT.pdf " Тут дещо розширена версія ")  
 Тест симісторів  
 Тест тірісторів  
 Тест транисторних оптопар  [Взято тут](http://monitor.espec.ws/section44/topic172992p20.html " ")  

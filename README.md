@@ -1,5 +1,5 @@
 # Component-tester
-Тест IGBT  
+Тест IGBT [Додаткова інфа тут](http://valvolodin.narod.ru/articles/tester_IGBT.pdf " ") 
 Тест MOSFET  
 Тест симісторів  
 Тест тірісторів  

@@ -1,4 +1,6 @@
 # Component-tester
+Проєкт інуверсального тестера, на  "розсипних комплектуючих" для перевірки наступних приладів:  
+
 Тест IGBT [Додаткова інфа тут](http://valvolodin.narod.ru/articles/tester_IGBT.pdf " Тут дещо розширена версія ")  
 Тест MOSFET  [Додаткова інфа тут](http://valvolodin.narod.ru/articles/tester_IGBT.pdf " Тут дещо розширена версія ")  
 Тест симісторів  
